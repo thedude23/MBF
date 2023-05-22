@@ -1,2 +1,3 @@
 # mbf
-Design, made in Adobe XD
+
+Design in Adobe XD.
