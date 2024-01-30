@@ -1,3 +1,3 @@
-# mbf
+# MBF
 
-Design in Adobe XD.
+Web Design in Adobe XD.
